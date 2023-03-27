@@ -1,0 +1,28 @@
+.item {
+  padding: 1rem 1.5rem;
+  list-style: none;
+  font-size: 1rem;
+  background-color: #f0efef;
+  border-bottom: 1px solid #fff;
+}
+
+.content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 1rem;
+}
+
+.content span {
+  flex: 1;
+  order: 1;
+}
+
+.content button {
+  margin-left: 0.5rem;
+  order: 2;
+  background-color: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
