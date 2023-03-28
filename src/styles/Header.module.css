@@ -1,0 +1,14 @@
+.header {
+  padding: 1.25rem 0;
+  text-align: center;
+  color: #aeadad;
+  line-height: 1.5rem;
+}
+.header h1 {
+  margin-bottom: 1rem;
+  text-transform: lowercase;
+  text-align: center;
+  font-size: 3rem;
+  font-weight: 600;
+  line-height: 1rem;
+}
