@@ -20,9 +20,9 @@
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-# 📖 [math-magician] <a name="about-project"></a>
+# 📖 [react-todo-app] <a name="about-project"></a>
 
-**[math-magician]** is a project where I'll be creating a SPA with React. For the moment I set up the repo, so stay tuned for the future changes!
+**[react-todo-app]** is a Web app where users can add, edit, remove, check, and clear all checked tasks from a to-do list. Built with React.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -77,7 +77,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  git clone https://github.com/mwismann/math-magician.git
+  git clone https://github.com/mwismann/react-todo-app.git
 ```
 
 ### Install
